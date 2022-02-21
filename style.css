@@ -1,0 +1,8 @@
+#sliders {
+    display: block;
+}
+
+input[type="number"] {
+    display: inline;
+    width: 2rem;
+}
